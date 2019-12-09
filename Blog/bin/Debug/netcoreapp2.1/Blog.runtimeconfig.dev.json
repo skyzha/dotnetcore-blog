@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\GADA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\GADA\\.nuget\\packages"
+    ]
+  }
+}
